@@ -1,6 +1,6 @@
-Execute the app.py by on Windows: <br>
+Execute the app.py on Windows by: <br>
 run.bat
 
-Execute the app.py by on Linux: <br>
+Execute the app.py on Linux by: <br>
 make install <br>
 make run
